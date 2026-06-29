@@ -1,4 +1,4 @@
-# 
+# Smart AI Plagiarism Checker presets. Featuring transfer-learning and edge-AI — optimized for maximum performance.
 
 
 
